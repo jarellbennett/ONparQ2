@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OnParQ2\OnParQ2\bin\Debug\OnParQ2.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OnParQ2\OnParQ2\obj\Debug\OnParQ2.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OnParQ2\OnParQ2\bin\Debug\OnParQ2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OnParQ2\OnParQ2\bin\Debug\OnParQ2.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OnParQ2\OnParQ2\obj\Debug\OnParQ2.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\OnParQ2\OnParQ2\obj\Debug\OnParQ2.pdb
